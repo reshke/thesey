@@ -1,7 +1,8 @@
 
-
 set(thesey_src
     core/thesey.cpp
+    pgpx/frontend.cpp
+    pgpx/backend.cpp
     main.cpp
 )
 
